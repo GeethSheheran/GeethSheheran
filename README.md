@@ -1,246 +1,98 @@
-<!-- 欢迎界面并展示访问次数 -->
-<h2 align="center">👋Thank You For Your Visit</h2>
-<div align="center">
-<img src="https://profile-counter.glitch.me/YuZhangWang/count.svg">
-</div>
-</br>
+<p align="center">
+  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+</p>
+<br>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-UI/UX%20Engineering-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
+<h3 align="center">Machine Learning Engineer | Data Scientist </h3>
+<p align="center">
+<a href="https://www.hackerrank.com/OvinduWijethunge" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ovinduwijethunge/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.kaggle.com/ovinduwijethunge" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_ovindu" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ovindu_vesuvius/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
+ <a href = "mailto: oumw.udesh@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
+</p>
 
 
-<!-- 反996运动 https://996.icu  https://github.com/996icu -->
-<div align="center">
-    <strong>Guido van Rossum, Python之父:<a href="https://twitter.com/gvanrossum/status/1111628076801236993">"996"工作制是不人道的.</a></strong>
-    </br>
-    </br>
-    <table border="0">
-  <tr>
-    <td><a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge" alt="996.icu" /></a></td>
-    <td><a href="https://996tsc.netlify.app/#/sticker"><img src="https://img.shields.io/badge/link-996.TSC-red?style=for-the-badge" alt="996.TSC" /></a></td>
-    <td><a href="https://github.com/top996/top.996"><img src="https://img.shields.io/badge/link-top.996-red?style=for-the-badge" alt="996.top" /></a></td>
-    <td><a href="https://fengt-t.github.io/996_list/"><img src="https://img.shields.io/badge/link-996__list-red?style=for-the-badge" alt="996_list" /></a></td>
-    <td><a href="https://github.com/it-job-blacklist/996ICU.job.blacklist_company"><img src="https://img.shields.io/badge/link-job--blacklist-red?style=for-the-badge" alt="job-blacklist" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/zxpsuper/IT-blacklist"><img src="https://img.shields.io/badge/link-IT--blacklist-red?style=for-the-badge" alt="IT-blacklist" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/tree/master/whitelist"><img src="https://img.shields.io/badge/link-whitelist-success?style=for-the-badge" alt="whitelist" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue?style=for-the-badge" alt="996.icu" /></a></td>
-    <td><a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg?style=for-the-badge" alt="996.icu" /></a></td>
-    <td><a href="https://github.com/YuZhangWang/YuZhangWang/blob/master/LICENSE"><img src="https://img.shields.io/github/license/onlyGuo/nginx-gui.svg?style=for-the-badge"></a></td>
-  </tr>
-</table> 
-</div>
 
+<p align="center">
+  <em>
+    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+<br><br>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<!-- 关于我的一些编程信息,例如Github状态,Github仓库内编程语言使用情况统计,常用的编程语言,常用的编程框架和IDE工具,Github粉丝点赞访客 -->
-## :star2: Github Status
-<div align="center">
-<table>
-    <tr>
-        <!-- Github状态 -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-        </td>
-        <!-- Github仓库内编程语言使用情况统计 -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
-        </td>
-    </tr>
-</table>
-</div>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently Developing a youtube spam comments filtering tool for **Sinhala language**<br>
+✔ I’m currently learning about **deep learning**🥰<br>
+✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+ 
 
-</br>
-
-<!-- 常用的编程语言和常用的编程框架和IDE工具 -->
-<div align="center">
-<table>
-<tr>
-<td>
-:basecamp: Languages
-</td>
-<td>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210910011149.png" alt="Python" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="Markdown" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="Latex" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="Html" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="Javascript" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" /></code>
-</td>
-</tr>
-    
-<tr>
-<td>
-:fishsticks: Tools
-</td>
-<td>
-<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/pycharm.svg" alt="Pycharm" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" alt="Anaconda" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="Pytorch" /></code>   
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="Opencv"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask"></code>
-<code><img height="20" src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/clion.svg" alt="Clion"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="Node.js"/></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual-Studio-Code" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="openSUSE" /></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-plain.svg" alt="Firefox" /></code>
-</td>
-</tr>
-</table>
-</div>
-
-<!-- 关于我的一些信息 -->
-## :wink: About Me
-> - YuZhangWang(豫章望)
-> - 励志成为一名算法工程师，研究深度学习、机器学习，达到算法工程落地的要求，同时前端后端掌握一些内容   
-> - 合作邮箱<a href="mailto:YuZhangWang233@163.com">YuZhangWang233@163.com</a>   
-> - 个人博客[https://yuzhang.wang](https://yuzhang.wang)   
-> - 博客备份[YuZhangWang的领域](https://flowus.cn/yuzhangwang/share/7df66bdd-907c-4023-803c-b8c5cfe06d4a)   
-> - RSS订阅[https://yuzhang.wang/rss2.xml](https://yuzhang.wang/rss2.xml)   
-
-
-<table width="100%" align="center" padding="0" margin="0">
-<tr>
-<td valign="top" width="50%">
-:mortar_board:  <a href="https://yuzhang.wang" target="_blank">Recent Blog</a> 
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
   
-<!-- START_SECTION:blog -->
-| Date | Title |
-| :-: | :---: |
-| 2023-06-08 | <a href='https://yuzhang.wang/134-past-pesent-future/' target='_blank'>过去 现在 未来</a> |
-| 2023-06-07 | <a href='https://yuzhang.wang/133-best-template/' target='_blank'>你应该为自己创建一个Github仓库模板</a> |
-| 2023-06-06 | <a href='https://yuzhang.wang/132-github-introduction/' target='_blank'>如何拥有一个Awesome的Github介绍页面</a> |
-| 2023-06-05 | <a href='https://yuzhang.wang/131-remote-friend-linking/' target='_blank'>Butterfly主题中远程友链实操</a> |
-| 2023-06-04 | <a href='https://yuzhang.wang/130-domain-name-issue/' target='_blank'>域名的小问题导致网站关闭了很久</a> |
-| 2023-06-03 | <a href='https://yuzhang.wang/129-genshin-progress-planning/' target='_blank'>原神进度以及未来规划</a> |
-| 2023-06-02 | <a href='https://yuzhang.wang/128-exam-935/' target='_blank'>考研935记忆点</a> |
-| 2023-06-01 | <a href='https://yuzhang.wang/127-exam-politics/' target='_blank'>考研政治记忆点</a> |
-| 2023-05-31 | <a href='https://yuzhang.wang/126-exam-mathematics/' target='_blank'>考研数学记忆点</a> |
-| 2023-05-30 | <a href='https://yuzhang.wang/125-aopic-dermatitis/' target='_blank'>原来我的皮肤生病了</a> |
-<!-- END_SECTION:blog -->
-</td>
-    
-<td valign="top" width="50%"> 
-:tada:  <a href="https://yuzhang.wang" target="_blank">Funny Soul</a> 
-    
-<!-- START_SECTION:douban -->
-| Date | Title |
-| :-: | :---: |
-| 2023-08-03 | 在看👀 <a href='http://movie.douban.com/subject/35326277/' target='_blank'>潜行者</a> ⭐⭐⭐⭐ |
-| 2023-08-03 | 看过😎 <a href='http://movie.douban.com/subject/35891808/' target='_blank'>欢颜</a> ⭐ |
-| 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/30345127/' target='_blank'>少年歌行</a> ⭐⭐⭐⭐ |
-| 2023-08-02 | 看过😎 <a href='http://movie.douban.com/subject/35679806/' target='_blank'>君有云</a> ⭐⭐⭐⭐ |
-| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/36139980/' target='_blank'>凡人修仙传：星海飞驰</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-29 | 看过😎 <a href='http://movie.douban.com/subject/36017435/' target='_blank'>凡人修仙传：初入星海</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-29 | 在看👀 <a href='http://movie.douban.com/subject/35346290/' target='_blank'>永生</a> ⭐⭐⭐⭐ |
-| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/36190074/' target='_blank'>在读金榜题名之后</a> ⭐⭐⭐⭐ |
-| 2023-07-28 | 最近 <a href='https://book.douban.com/subject/30397750/' target='_blank'>在读论语三百讲（全三册）</a> ⭐⭐⭐⭐⭐ |
-| 2023-07-27 | 看过😎 <a href='http://movie.douban.com/subject/35417825/' target='_blank'>石纪元 第三季</a> ⭐⭐⭐⭐⭐ |
-<!-- END_SECTION:douban -->
-</td>
-</tr>
-    
-<!-- START_SECTION:github-xxx -->
-<!-- END_SECTION:github-xxx -->
-    
-</table>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> </code>
+  <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+  <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
+  <hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
 
 
-<!-- 各种平台联系方式 -->
-## :mailbox: Get In Touch
-<div align="center">
-<table border="0">
-  <tr>
-    <td>
-        <!-- StackOverFlow -->
-        <a href="https://stackoverflow.com/users/16347524/yuzhangwang" target="_blank"> 
-        <img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- CSDN -->
-        <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-        <img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- 掘金 -->
-    <a href="https://juejin.cn/user/4476867080633319" target="_blank"> 
-    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-%231E80FF?style=for-the-badge">
-    </a>
-    </td>
-    <td>
-        <!-- 知乎 -->
-        <a href="https://www.zhihu.com/people/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-%230066FF?style=for-the-badge">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <!-- Github -->
-        <a href="https://github.com/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/Github-YuZhangWang-%2324292F?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- Gitee -->
-        <a href="https://gitee.com/YuZhangWang233" target="_blank"> 
-        <img src="https://img.shields.io/badge/Gitee-YuZhangWang-%23C71D23?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- LeetCode -->
-        <a href="https://leetcode-cn.com/u/yuzhangwang/" target="_blank"> 
-        <img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA119?style=for-the-badge">
-        </a>
-     </td>
-    <td>
-        <!-- bilibili -->
-        <a href="https://space.bilibili.com/19474542" target="_blank"> 
-        <img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299?style=for-the-badge">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <!-- 酷安 -->
-        <a href="http://www.coolapk.com/u/1670757" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273?style=for-the-badge">
-        </a>
-     </td>
-    <td>
-        <!-- 网易云 -->
-        <a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- QQ -->
-        <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
-        <img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- 微信 -->
-        <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19?style=for-the-badge">
-        </a>
-    </td>
-  </tr>
-</table>
-</div>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+
+
+-----
+Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+
+Last Edited on: 17/04/2021
+
+
+
+
